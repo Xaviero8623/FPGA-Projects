@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "LED_and_Gate_TB_behav" "xil_defaultlib.LED_and_Gate_TB" -log "elaborate.log" 

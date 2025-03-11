@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../LED_and_Gate.srcs/sources_1/new/LED_and_Gate.vhd" \
+"../../../../LED_and_Gate.srcs/sources_1/new/LED_and_Gate_TB.vhd" \
+
+# Do not sort compile order
+nosort

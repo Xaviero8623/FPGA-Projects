@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="LED_and_Gate_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="LED_and_Gate_TB" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="127.501 ns"></ZoomEndTime>
+      <Cursor1Time time="99.600 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="120"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/LED_and_Gate_TB/SW1_tb" type="logic">
+      <obj_property name="ElementShortName">SW1_tb</obj_property>
+      <obj_property name="ObjectShortName">SW1_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LED_and_Gate_TB/SW2_tb" type="logic">
+      <obj_property name="ElementShortName">SW2_tb</obj_property>
+      <obj_property name="ObjectShortName">SW2_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LED_and_Gate_TB/clk_tb" type="logic">
+      <obj_property name="ElementShortName">clk_tb</obj_property>
+      <obj_property name="ObjectShortName">clk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LED_and_Gate_TB/led1_tb" type="logic">
+      <obj_property name="ElementShortName">led1_tb</obj_property>
+      <obj_property name="ObjectShortName">led1_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LED_and_Gate_TB/led2_tb" type="logic">
+      <obj_property name="ElementShortName">led2_tb</obj_property>
+      <obj_property name="ObjectShortName">led2_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/LED_and_Gate_TB/led3_tb" type="logic">
+      <obj_property name="ElementShortName">led3_tb</obj_property>
+      <obj_property name="ObjectShortName">led3_tb</obj_property>
+   </wvobject>
+</wave_config>
