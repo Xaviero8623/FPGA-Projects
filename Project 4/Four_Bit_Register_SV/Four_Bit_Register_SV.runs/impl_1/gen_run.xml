@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7s50csga324-1" LaunchTime="1742085155">
+  <File Type="PA-TCL" Name="Four_Bit_Register.tcl"/>
+  <File Type="REPORTS-TCL" Name="Four_Bit_Register_reports.tcl"/>
+  <File Type="INIT-TIMING" Name="Four_Bit_Register_timing_summary_init.rpt"/>
+  <File Type="OPT-DCP" Name="Four_Bit_Register_opt.dcp"/>
+  <File Type="OPT-DRC" Name="Four_Bit_Register_drc_opted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Four_Bit_Register_methodology_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Four_Bit_Register.hwdef"/>
+  <File Type="OPT-TIMING" Name="Four_Bit_Register_timing_summary_opted.rpt"/>
+  <File Type="OPT-RQA-PB" Name="Four_Bit_Register_rqa_opted.pb"/>
+  <File Type="PWROPT-DCP" Name="Four_Bit_Register_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Four_Bit_Register_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Four_Bit_Register_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Four_Bit_Register_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Four_Bit_Register_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Four_Bit_Register_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Four_Bit_Register_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Four_Bit_Register_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Four_Bit_Register_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Four_Bit_Register_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Four_Bit_Register_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="Four_Bit_Register_timing_summary_placed.rpt"/>
+  <File Type="PLACE-RQA-PB" Name="Four_Bit_Register_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Four_Bit_Register_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Four_Bit_Register_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Four_Bit_Register_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Four_Bit_Register_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="Four_Bit_Register_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Four_Bit_Register_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Four_Bit_Register_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Four_Bit_Register_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Four_Bit_Register_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Four_Bit_Register_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="Four_Bit_Register_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Four_Bit_Register_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Four_Bit_Register_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Four_Bit_Register_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="Four_Bit_Register_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="Four_Bit_Register_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Four_Bit_Register_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Four_Bit_Register_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Four_Bit_Register_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Four_Bit_Register_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Four_Bit_Register_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Four_Bit_Register_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Four_Bit_Register_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Four_Bit_Register_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Four_Bit_Register_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Four_Bit_Register_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Four_Bit_Register_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-RQS-PB" Name="Four_Bit_Register_rqs_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Four_Bit_Register_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Four_Bit_Register_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Four_Bit_Register_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Four_Bit_Register_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Four_Bit_Register_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Four_Bit_Register_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Four_Bit_Register_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Four_Bit_Register_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="Four_Bit_Register.bit"/>
+  <File Type="BG-BIN" Name="Four_Bit_Register.bin"/>
+  <File Type="BITSTR-MSK" Name="Four_Bit_Register.msk"/>
+  <File Type="BITSTR-RBT" Name="Four_Bit_Register.rbt"/>
+  <File Type="BITSTR-NKY" Name="Four_Bit_Register.nky"/>
+  <File Type="BITSTR-BMM" Name="Four_Bit_Register_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="Four_Bit_Register.mmi"/>
+  <File Type="PDI-FILE" Name="Four_Bit_Register.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="Four_Bit_Register_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="Four_Bit_Register_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="Four_Bit_Register.rcfi"/>
+  <File Type="CFI_FILE" Name="Four_Bit_Register.cfi"/>
+  <File Type="RNPI_FILE" Name="Four_Bit_Register.rnpi"/>
+  <File Type="NPI_FILE" Name="Four_Bit_Register.npi"/>
+  <File Type="RBD_FILE" Name="Four_Bit_Register.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Four_Bit_Register.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="Four_Bit_Register.sysdef"/>
+  <File Type="BG-BGN" Name="Four_Bit_Register.bgn"/>
+  <File Type="BG-DRC" Name="Four_Bit_Register.drc"/>
+  <File Type="RDI-RDI" Name="Four_Bit_Register.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="Four_Bit_Register_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="Four_Bit_Register_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Four_Bit_Register.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Four_Bit_Register_tb.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Four_Bit_Register"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/4_bit.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/4_bit.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/Four_Bit_Register.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
